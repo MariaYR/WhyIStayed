@@ -23,7 +23,7 @@ library(igraph)
 
 #Dedoose produces co-occureence matrix, but doesn't allow for visualization
 #visualize here 
-whyileft_viz <- read.csv("~/Dropbox/Publications/Heather&Maria/TopicModelingVSHumans/JTHS/stm/JTHS_R&R/whyileft_cooccurence.csv")
+whyileft_viz <- read.csv("Your file")
 whyileft_viz
 names(whyileft_viz)
 #whyileft_viz <- whyileft_viz[order(whyileft_viz$WhyILeft),]
