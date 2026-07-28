@@ -49,10 +49,8 @@ Consistent with standard practice for sharing X (formerly Twitter) data,
 and with X's Developer Agreement and Policy — which restricts
 redistributing the full text/content of tweets, permitting only tweet IDs
 (and/or user IDs) to be shared publicly — we can provide a list of tweet
-IDs for the dataset used in this study on request. [Add contact info /
-conditions here, e.g. an email address, and any IRB or data-use-agreement
-requirements.] Requesters will need their own X developer access to
-"rehydrate" the IDs into full tweet text and metadata (e.g. via
+IDs for the dataset used in this study on request. Requesters will need their 
+own X developer access to "rehydrate" the IDs into full tweet text and metadata (e.g. via
 [`twarc`](https://github.com/DocNow/twarc) or a similar hydration tool),
 subject to X's terms of use at the time of the request. Note that tweets
 that have since been deleted or made private will no longer be retrievable
